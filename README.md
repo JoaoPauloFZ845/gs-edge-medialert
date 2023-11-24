@@ -41,6 +41,7 @@ Para implementar a aprte de sensores do MediAlert, é necessário configurar um 
 
 
 Link para a simulação no Wokwi: https://wokwi.com/projects/382230574608615425
+
 Link do Vídeo no Youtube: https://www.youtube.com/watch?v=1UhUYIF8Hm8&ab_channel=Jo%C3%A3oPauloZamperlini
 
 
